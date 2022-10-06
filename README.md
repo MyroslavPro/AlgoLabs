@@ -1,3 +1,3 @@
 # AlgoLabs
-Here are gonna be my algo labs
+## LAB1
 Realization of AVL Tree insert
